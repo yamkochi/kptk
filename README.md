@@ -1,6 +1,6 @@
 # av_net_shop
 
-A new Flutter project.
+A new Flutter project Anand Manoaharn
 
 ## Getting Started
 
